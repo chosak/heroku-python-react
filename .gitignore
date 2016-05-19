@@ -1,0 +1,5 @@
+venv
+*.pyc
+*.swp
+node_modules
+static/build
